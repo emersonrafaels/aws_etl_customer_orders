@@ -4,4 +4,6 @@
 
 [production]
 BUCKET_S3 = "etl-customer-orders"
+DIR_BUCKET_S3 = "data/raw_data"
+
 DIR_DATA_FILES = "DATA"
