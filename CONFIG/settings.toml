@@ -1,0 +1,7 @@
+[default]
+
+[development]
+
+[production]
+BUCKET_S3 = "etl-customer-orders"
+DIR_DATA_FILES = "DATA"
